@@ -15,7 +15,7 @@ The application implements the functionality:
 * Etherscan: [link to contract](https://sepolia.etherscan.io/address/0x407E37cBB3407055799772a4B9E4D81Eb55AfC0f)
 * Shop smart-contract address: 0x407E37cBB3407055799772a4B9E4D81Eb55AfC0f
 
-<img src="https://user-images.githubusercontent.com/56224288/235591272-be7d0747-b045-4e79-8bae-d7737a3853cf.jpg" width="300">
-<img src="https://user-images.githubusercontent.com/56224288/235591277-195b7829-7297-4458-ae73-26065699e7f8.jpg" width="300">
-<img src="https://user-images.githubusercontent.com/56224288/235591278-91c236a0-d3cd-4fce-8b39-b61355c5b74a.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/56224288/235591272-be7d0747-b045-4e79-8bae-d7737a3853cf.jpg" width="600">
+<img src="https://user-images.githubusercontent.com/56224288/235591277-195b7829-7297-4458-ae73-26065699e7f8.jpg" width="600">
+<img src="https://user-images.githubusercontent.com/56224288/235591278-91c236a0-d3cd-4fce-8b39-b61355c5b74a.jpg" width="600">
 
