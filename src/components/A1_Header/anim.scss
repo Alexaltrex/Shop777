@@ -1,0 +1,62 @@
+.letter1 {
+  animation-name: letter-1;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.letter2 {
+  animation-name: letter-2;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+.letter3 {
+  animation-name: letter-3;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes letter-1 {
+  0% {
+    color: red;
+  }
+  33% {
+    color: aqua;
+  }
+  66% {
+    color: yellow;
+  }
+  100% {
+    color: red;
+  }
+}
+
+@keyframes letter-2 {
+  0% {
+    color: yellow;
+  }
+  33% {
+    color: red;
+  }
+  66% {
+    color: aqua;
+  }
+  100% {
+    color: yellow;
+  }
+}
+
+@keyframes letter-3 {
+  0% {
+    color: aqua;
+  }
+  33% {
+    color: yellow;
+  }
+  66% {
+    color: red;
+  }
+  100% {
+    color: aqua;
+  }
+}

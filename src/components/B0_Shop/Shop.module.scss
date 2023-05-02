@@ -1,0 +1,27 @@
+@import "../../assets/style/app";
+
+.shop {
+  position: relative;
+  padding: 16px;
+
+  .progress {
+    @include progress;
+  }
+
+  .borderBlock {
+    margin-top: 16px;
+    border: 2px solid royalblue;
+    border-radius: 16px;
+    padding: 16px;
+
+    .blockTitle {
+      background: #121e3e;
+      color: #FFF;
+      border-radius: 4px;
+    }
+  }
+
+  .infoBlockColumn {
+    @include infoBlockColumn
+  }
+}
